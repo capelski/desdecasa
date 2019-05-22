@@ -33,7 +33,7 @@ body{
 	/*Fons de la pàgina*/
 	/*color: #EFF6F8;       TRET PER EL COLOR DE FONT DELS MAPES*/
 	line-height: 20px;
-	background: #7dbfd7 url(../images/bg.jpg);
+	background: #7dbfd7 url(/images/bg.jpg?$modena=desdecasa);
 	background-repeat:repeat-x;
 	background-position: top;
 	font-family: Karla;
@@ -53,7 +53,7 @@ body{
 
 #header{
 	/* Carregar l'imatge del header */
-    background:  url(../images/header.png);
+    background:  url(/images/header.png?$modena=desdecasa);
     background-repeat: no-repeat;
     background-position: top;
     width: 100%;}
@@ -72,7 +72,7 @@ body{
     height: 57px;
     margin: 0 auto;
     padding-top: 0px;
-    background:  url(../images/menubg.png);
+    background:  url(/images/menubg.png?$modena=desdecasa);
     background-repeat: no-repeat;
     background-position: bottom left;}
 	
@@ -97,7 +97,7 @@ body{
 
 #buttons a:hover{
 	/*Il·luminació dels botons*/
-   background:  url(../images/menu_h.png);
+   background:  url(/images/menu_h.png?$modena=desdecasa);
    background-repeat: no-repeat;
    background-position: center;}	
    
@@ -107,7 +107,7 @@ body{
     height: 57px;
     margin: 0 auto;
     padding-top: 0px;
-    background:  url(../images/menuinf.png);
+    background:  url(/images/menuinf.png?$modena=desdecasa);
     background-repeat: no-repeat;
     background-position: bottom left;}
 		
@@ -132,7 +132,7 @@ body{
 
 #buttons2 a:hover{
 	/*Il·luminació dels botons*/
-   background:  url(../images/menu_h.png);
+   background:  url(/images/menu_h.png?$modena=desdecasa);
    background-repeat: no-repeat;
    background-position: center;}	
 
@@ -144,7 +144,7 @@ body{
     padding-top: 10px;
     text-align: center;
     clear:both;
-    background:  url(../images/footer.png);
+    background:  url(/images/footer.png?$modena=desdecasa);
     background-repeat: no-repeat;
     background-position: top;
     margin-top: 0px;
@@ -489,7 +489,7 @@ html ul.tabs li.active, html ul.tabs li.active a:hover  {
     height: 57px;
     margin: 0 auto;
     padding-top: 0px;
-    background:  url(../images/menuinf2.png);
+    background:  url(/images/menuinf2.png?$modena=desdecasa);
     background-repeat: no-repeat;
     background-position: bottom left;}
 		
@@ -514,6 +514,6 @@ html ul.tabs li.active, html ul.tabs li.active a:hover  {
 
 #buttonsinf a:hover{
 	/*Il·luminació dels botons*/
-   background:  url(../images/menu_h.png);
+   background:  url(/images/menu_h.png?$modena=desdecasa);
    background-repeat: no-repeat;
    background-position: center;}	
