@@ -1,0 +1,15 @@
+{
+    "name": "desdecasa",
+    "version": "1.0.0",
+    "description": "Promotional website providing basic information of the bars and restaurants of Vic",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "Carles Capellas <capellas.carles@gmail.com>",
+    "license": "MIT",
+    "dependencies": {
+        "ejs": "^2.6.1",
+        "express": "^4.17.1"
+    }
+}
